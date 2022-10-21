@@ -1,4 +1,4 @@
-# Cordova GoogleMaps plugin for Android, iOS and Browser v2.7.1
+# Cordova GoogleMaps plugin for Cordova 11 sorting cordova-plugin-geolocation conflict
 
 | Download | Build test (multiple_maps branch)|
 |----------|---------------------------|
